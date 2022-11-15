@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="lib3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/web-pet-store/lib/javax.annotation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/web-pet-store/lib/javax.ejb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/web-pet-store/lib/javax.persistence.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/web-pet-store/lib/javax.servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/web-pet-store/lib/javax.jms.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/web-pet-store/lib/javax.servlet.jsp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/web-pet-store/lib/javax.transaction.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/web-pet-store/lib/javax.resource.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

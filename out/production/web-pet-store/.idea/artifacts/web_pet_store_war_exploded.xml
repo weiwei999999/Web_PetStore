@@ -1,0 +1,25 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="web-pet-store:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/web_pet_store_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="web-pet-store/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="web-pet-store" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="activation-1.1.1" />
+          <element id="library" level="project" name="javax.mail-api-1.6.2" />
+          <element id="library" level="project" name="javax.mail" />
+          <element id="library" level="project" name="jstl" />
+          <element id="library" level="project" name="mysql-connector-java-8.0.30" />
+          <element id="library" level="project" name="standard" />
+          <element id="library" level="project" name="log4j-1.2.7 (6)" />
+          <element id="library" level="project" name="log4j-1.2.7" />
+          <element id="library" level="project" name="log4j-1.2.7 (2)" />
+          <element id="library" level="project" name="log4j-1.2.7 (4)" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

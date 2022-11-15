@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="all_jar1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/web_pet_store_war_exploded/WEB-INF/classes/all_jar/activation-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/web_pet_store_war_exploded/WEB-INF/classes/all_jar/jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/web_pet_store_war_exploded/WEB-INF/classes/all_jar/javax.mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/web_pet_store_war_exploded/WEB-INF/classes/all_jar/javax.mail-api-1.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/web_pet_store_war_exploded/WEB-INF/classes/all_jar/standard.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/web_pet_store_war_exploded/WEB-INF/classes/all_jar/mysql-connector-java-8.0.30.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

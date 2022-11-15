@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="all_jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/all_jar/standard.jar!/" />
+      <root url="jar://$PROJECT_DIR$/all_jar/javax.mail-api-1.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/all_jar/jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/all_jar/javax.mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/all_jar/activation-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/all_jar/mysql-connector-java-8.0.30.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
